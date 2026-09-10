@@ -1,16 +1,16 @@
 # Sales-Performance-Dashboard
 
-The first page provides a broad overview of performance and serves as the entry point to the dashboard. It begins with the headline figures that summarize activity, including sales totals, orders, and units sold, along with indicators that reflect overall outcomes.
+The first page gives a clear snapshot of how the business is doing overall. It begins with the key performance indicators: total sales, transactions, quantities sold, and average order value. Year‑over‑year comparisons make it easy to spot whether things are improving or slipping.
 
-From there, the visuals break down results into different perspectives. They show which contributors stand out the most, how performance shifts across months, and how sales are distributed across categories. 
+Supporting visuals then expand on these results. The sales trend chart illustrates changes in performance across months. Product and regional views highlight the strongest contributors to sales. The payment method breakdown adds another layer, showing how customers are choosing to pay and how revenue is spread across different channels. 
 
-The purpose of this page is to establish context. It highlights the strongest areas, reveals patterns in performance, and points toward sections that deserve closer attention.
+The purpose of this page is to establish context before moving into more detailed analysis. Rather than focusing on individual records, it emphasizes overall trends and major contributors.
 
 <p align = "center">
-  <img width="1206" height="680" alt="image" src="https://github.com/user-attachments/assets/204b274f-1646-47a8-aa43-02d1b11b19c1" />
+  <img width="1206" height="678" alt="image" src="https://github.com/user-attachments/assets/da0ba6d4-bfe2-4771-bf4e-7736f3b7001f" />
 </p>
 
-## Top Performance by Region
+## Top Performance by Region - Will edit later
 
 The second page highlights the regional view. It brings together the quarter, the manager responsible for that region, and the top performer who stood out during that period. It presents the key figures such as total units sold, overall sales value, and the number of orders per quarter. After laying out these essentials, the page shifts the focus to the individual who drove the strongest results.
 
