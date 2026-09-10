@@ -16,8 +16,6 @@ The second page highlights the regional view. It brings together the quarter, th
 
 The intention is not only to display the numbers but to capture the story of the quarter by showing who led the charge, how their performance influenced the region’s outcome, and how their results compare with the rest of the team.
 
-<p align = "center">
-  <img width="1217" height="695" alt="image" src="https://github.com/user-attachments/assets/5726ae2e-fc8d-4b43-baa7-7e0392e6f39a" />
-</p>
+
 
 I am still building out additional comparisons and plan to include visuals that show how far ahead the top performer is compared to the average salesperson of that quarter. 
