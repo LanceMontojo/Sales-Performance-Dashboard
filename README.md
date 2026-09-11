@@ -1,13 +1,13 @@
 # Sales-Performance-Dashboard
 
-The first page gives a clear snapshot of how the business is doing overall. It begins with the key performance indicators: total sales, transactions, quantities sold, and average order value. Year‑over‑year comparisons make it easy to spot whether things are improving or slipping.
+The first page gives a clear snapshot of how the business is doing overall. It begins with the key performance indicators: total sales, transactions, products sold, and average order value. Year‑over‑year comparisons make it easy to spot whether things are improving or slipping.
 
 Supporting visuals then expand on these results. The sales trend chart illustrates changes in performance across months. Product and regional views highlight the strongest contributors to sales. The payment method breakdown adds another layer, showing how customers are choosing to pay and how revenue is spread across different channels. 
 
 The purpose of this page is to establish context before moving into more detailed analysis. Rather than focusing on individual records, it emphasizes overall trends and major contributors.
 
 <p align = "center">
-  <img width="1206" height="678" alt="image" src="https://github.com/user-attachments/assets/da0ba6d4-bfe2-4771-bf4e-7736f3b7001f" />
+  <img width="1323" height="732" alt="image" src="https://github.com/user-attachments/assets/b84147de-4ab6-4b1f-a943-b99a97e88d4d" />
 </p>
 
 ## Top Performance by Region - Will edit later
