@@ -7,13 +7,13 @@ Supporting visuals then expand on these results. The sales trend chart illustrat
 The purpose of this page is to establish context before moving into more detailed analysis. Rather than focusing on individual records, it emphasizes overall trends and major contributors.
 
 <p align = "center">
-  <img width="1208" height="687" alt="image" src="https://github.com/user-attachments/assets/6add6903-364a-4724-b5aa-ffca8fc60923" />
+  <img width="1207" height="685" alt="image" src="https://github.com/user-attachments/assets/abf1cb11-b879-4f3f-9169-0ba52cf28996" />
 </p>
 
-For instance, when filtered to the South region in 2024, YoY performance grew as higher transactions and products sold drove stronger sales and average order value, peaking at $49,186.43 in October. Store B led with $104K in sales, while online payment was most common. Laptop was the top-performing product despite having the highest return rate, suggesting strong demand but a potential issue worth investigating.
+For instance, when filtered to Store C in 2024, YoY performance grew by 20.4% as higher transactions and products sold drove stronger sales and average order value, peaking at $74,423.91 in June. North led with $131K in sales, while credit card was the most common payment method. Printer was the top-performing product at $105K despite having a 21.7% return rate, suggesting strong demand but a potential issue worth investigating.
 
 <p align = "center">
-  <img width="1206" height="682" alt="image" src="https://github.com/user-attachments/assets/e430796b-05ad-46d7-aa73-2079e7ed852c" />
+  <img width="1206" height="677" alt="image" src="https://github.com/user-attachments/assets/8147623a-e4c3-49b4-a33f-20c461680811" />
 </p>
 
 ## Top Performance by Region - Will edit later
